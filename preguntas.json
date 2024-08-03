@@ -1,0 +1,905 @@
+[
+    
+        {
+            "id": 1,
+            "enunciado": "¿Cuál es el país más grande del mundo",
+            "respuesta": "Rusia",
+            "pista": "____a"
+        },
+        {
+            "id": 2,
+            "enunciado": "¿En qué continente se encuentra Egipto?",
+            "respuesta": "África",
+            "pista": "_f____"
+        },
+        {
+            "id": 3,
+            "enunciado": "¿En qué año empezó la Primera Guerra Mundial?",
+            "respuesta": "1914",
+            "pista": "___4"
+        },
+        {
+            "id": 4,
+            "enunciado": "¿Cuál es la capital de Japón?",
+            "respuesta": "Tokio",
+            "pista": "_o___"
+        },
+        {
+            "id": 5,
+            "enunciado": "¿Qué órgano del cuerpo humano consume más energía?",
+            "respuesta": "El cerebro",
+            "pista": "_l _e_____"
+        },
+        {
+            "id": 6,
+            "enunciado": "¿Cuál es el desierto más grande del mundo?",
+            "respuesta": "El desierto del Sahara",
+            "pista": "E_ ___i____ d__ _a____"
+        },
+        {
+            "id": 7,
+            "enunciado": "¿Qué planeta es conocido como el Planeta Rojo?",
+            "respuesta": "Marte",
+            "pista": "_a___"
+        },
+        {
+            "id": 8,
+            "enunciado": "¿En qué año se disolvió la Unión Soviética?",
+            "respuesta": "1991",
+            "pista": "___1"
+        },
+        {
+            "id": 9,
+            "enunciado": "¿Cuál es la capital de Australia?",
+            "respuesta": "Canberra",
+            "pista": "C_____r_"
+        },
+        {
+            "id": 10,
+            "enunciado": "¿En qué año cayó el Muro de Berlín?",
+            "respuesta": "1989",
+            "pista": "___9"
+        },
+        {
+            "id": 11,
+            "enunciado": "¿Qué científico desarrolló la teoría de la relatividad?",
+            "respuesta": "Albert Einstein",
+            "pista": "_l____ __n_____"
+        },
+        {
+            "id": 12,
+            "enunciado": "¿Qué instrumento musical tiene 88 teclas?",
+            "respuesta": "El piano",
+            "pista": "__ _i___"
+        },
+        {
+            "id": 13,
+            "enunciado": "¿Cuál es el metal más abundante en la corteza terrestre?",
+            "respuesta": "El aluminio",
+            "pista": "__ a___i___"
+        },
+        {
+            "id": 14,
+            "enunciado": "¿Cuál es el país más pequeño del mundo?",
+            "respuesta": "El Vaticano",
+            "pista": "E_ ____c___"
+        },
+        {
+            "id": 15,
+            "enunciado": "¿En qué año se descubrió América?",
+            "respuesta": "1492",
+            "pista": "_4__"
+        },
+        {
+            "id": 16,
+            "enunciado": "¿Qué invento es atribuido a Alexander Graham Bell?",
+            "respuesta": "El teléfono",
+            "pista": "__ _e_____o"
+        },
+        {
+            "id": 17,
+            "enunciado": "¿Cuál es la capital de Brasil?",
+            "respuesta": "Brasilia",
+            "pista": "_r______"
+        },
+        {
+            "id": 18,
+            "enunciado": "Los Bunkers cantan: \"Llueve sobre la ciudad...\" ",
+            "respuesta": "porque te fuiste",
+            "pista": "p_____ __ f_____"
+        },
+        {
+            "id": 19,
+            "enunciado": "Kudai canta: \"Ya nada queda, se fue...\"",
+            "respuesta": "nuestro amor",
+            "pista": "___s___ a___"
+        },
+        {
+            "id": 20,
+            "enunciado": "La ley canta: \"Mentira servida, el vino y pan de...\"",
+            "respuesta": "cada día",
+            "pista": "_a__ __a"
+        },
+        {
+            "id": 21,
+            "enunciado": "Américo canta: \"No creo ser mejor, fui...\"",
+            "respuesta": "diferente nada más",
+            "pista": "d_______e n___ ___"
+        },
+        {
+            "id": 22,
+            "enunciado": "La noche canta: \"Es el amor, se nos escapa\"",
+            "respuesta": "en el aire",
+            "pista": "e_ __ a___"
+        },
+        {
+            "id": 23,
+            "enunciado": "Chancho en piedra canta: \"Eligiendo una reina, joven, linda y...\"",
+            "respuesta": "coqueta",
+            "pista": "c_q____"
+        },
+        {
+            "id": 24,
+            "enunciado": "Chico Trujillo canta: \"Loca, loca, loca, te volviste loca y...\"",
+            "respuesta": "disparaste frente a mí",
+            "pista": "___p______ ___n__ _ __"
+        },
+        {
+            "id": 25,
+            "enunciado": "Myriam Hernández canta: \"Huele a peligro, el solo hecho de...\"",
+            "respuesta": "acercarme a conversarte",
+            "pista": "___r_____ _ c__________"
+        },
+        {
+            "id": 26,
+            "enunciado": "Los prisioneros cantan: \"Es otra noche más, de caminar. Es otro fin de mes...\"",
+            "respuesta": "sin novedad",
+            "pista": "__n n______"
+        },
+        {
+            "id": 27,
+            "enunciado": "Américo canta: \"Si es verdad, déjalo ahí. Hechizado y...\"",
+            "respuesta": "embrujado por ti",
+            "pista": "__b______ _o_ __"
+        },
+        {
+            "id": 28,
+            "enunciado": "Supernova canta: \"Maldito amor, no digas...\"",
+            "respuesta": "que no sientes nada",
+            "pista": "q__ __ ___n___ ____"
+        },
+        {
+            "id": 29,
+            "enunciado": "Belanova canta: \"No, no quiero ser, esa mujer, ella se...\"",
+            "respuesta": "fue a un abismo",
+            "pista": "f__ _ __ a_____"
+        },
+        {
+            "id": 30,
+            "enunciado": "Miranda! canta: \"Solo tú, no necesito más, te adoraría lo que...\"",
+            "respuesta": "dure la eternidad",
+            "pista": "____ l_ e________"
+        },
+        {
+            "id": 31,
+            "enunciado": "Reik canta: \"Yo quisiera ser tu llanto, ese que...\"",
+            "respuesta": "viene de tus sentimientos",
+            "pista": "v____ d_ ___ s___________"
+        },
+        {
+            "id": 32,
+            "enunciado": "La Oreja de Van Gogh canta: \"Por eso esperaba con la carita empapada...\"",
+            "respuesta": "que llegaras con rosas",
+            "pista": "___ l_______ c__ _o___"
+        },
+        {
+            "id": 33,
+            "enunciado": "Carlos Baute canta: \"Te envío poemas...\"",
+            "respuesta": "de mi puño y letra",
+            "pista": "__ __ p___ _ ____a"
+        },
+        {
+            "id": 34,
+            "enunciado": "Julieta Venegas canta: \"Que lástima pero adiós, me despido...\"",
+            "respuesta": "de ti y me voy",
+            "pista": "__ __ y _e __y"
+        },
+        {
+            "id": 35,
+            "enunciado": "Bacilos canta: \"Mientras siga viendo tu cara en...\"",
+            "respuesta": "la cara de la luna",
+            "pista": "__ c___ __ __ l___"
+        },
+        {
+            "id": 36,
+            "enunciado": "Shakira canta: \"Creo que empiezo a entender. Nos deseábamos desde\"",
+            "respuesta": "antes de nacer",
+            "pista": "____s __ n____"
+        },
+        {
+            "id": 37,
+            "enunciado": "David Bisbal canta: \"No hay brillo en las estrellas, ya ni el sol me calienta y estoy...\"",
+            "respuesta": "muy solo aquí",
+            "pista": "___ s___ a___"
+        },
+        {
+            "id": 38,
+            "enunciado": "Juanes canta: \"A Dios le pido, que si me muero sea de amor, y si me...\"",
+            "respuesta": "enamoro sea de vos",
+            "pista": "e______ ___ d_ ___"
+        },
+        {
+            "id": 39,
+            "enunciado": "Chayanne canta: \"Si hay que ser torero, poner...\"",
+            "respuesta": "el alma en el ruedo",
+            "pista": "__ a___ __ __ r____"
+        },
+        {
+            "id": 40,
+            "enunciado": "Maná canta: \"Labios compartidos, labios divididos, mi amor, yo no puedo...\"",
+            "respuesta": "compartir tus labios",
+            "pista": "c________ ___ l_____"
+        },
+        {
+            "id": 41,
+            "enunciado": "Mecano canta: \"Luna quiere ser madre, y no encuentras querer...\"",
+            "respuesta": "que te haga mujer",
+            "pista": "_u_ __ h___ ___e_"
+        },
+        {
+            "id": 42,
+            "enunciado": "Selena canta: \"Amor prohibido murmuran por las calles, porque somos...\"",
+            "respuesta": "de distintas sociedades",
+            "pista": "__ d________ ________e_"
+        },
+        {
+            "id": 43,
+            "enunciado": "Juan Luis Guerra canta: \"Y también me dijo, no te mortifiques, que yo le envío mis...\"",
+            "respuesta": "avispas pa' que lo piquen",
+            "pista": "_v_____ __' q__ __ __q___"
+        },
+        {
+            "id": 44,
+            "enunciado": "Mecano canta: \"Nada tienen de especial, dos mujeres...\"",
+            "respuesta": "que se dan la mano",
+            "pista": "q__ __ ___ __ m___"
+        },
+        {
+            "id": 45,
+            "enunciado": "Rocío Durcal canta: \"Me atrapaste, me tuviste entre tus manos, me enseñaste lo inhumano y...\"",
+            "respuesta": "lo infeliz que puedes ser",
+            "pista": "__ i______ ___ ___d__ ___"
+        },
+        {
+            "id": 46,
+            "enunciado": "Pimpinela canta: \"Por eso vete, olvida mi nombre...\"",
+            "respuesta": "mi cara, mi casa",
+            "pista": "__ __r_, m_ ____"
+        },
+        {
+            "id": 47,
+            "enunciado": "Luis Miguel canta: \"Si no supiste amar, ahora...\"",
+            "respuesta": "te puedes marchar",
+            "pista": "__ p_____ _a_____"
+        },
+        {
+            "id": 48,
+            "enunciado": "Mon Laferte canta: \"Yo aún podía soportar, tu...\"",
+            "respuesta": "tanta falta de querer",
+            "pista": "t____ _____ d_ q_____"
+        },
+        {
+            "id": 49,
+            "enunciado": "José Luis Perales canta: \"¿Y cómo es él? ¿En qué lugar...?\"",
+            "respuesta": "se enamoró de ti",
+            "pista": "__ e______ __ t_"
+        },
+        {
+            "id": 50,
+            "enunciado": "Yuri canta: \"Si, para enamorarme ahora, volverá a mí...\"",
+            "respuesta": "la maldita primavera",
+            "pista": "l_ ___d___ p________"
+        },
+        {
+            "id": 51,
+            "enunciado": "Rocío Durcal canta: \"Lloverá y ya no seré tuya, seré...\"",
+            "respuesta": "la gata bajo la lluvia",
+            "pista": "__ g___ ____ l_ ______"
+        },
+        {
+            "id": 52,
+            "enunciado": "Juanes canta: \"Tengo, tengo la camisa negra, porque...\"",
+            "respuesta": "negra tengo el alma",
+            "pista": "n____ ____o __ ____"
+        },
+        {
+            "id": 53,
+            "enunciado": "Amanda Miguel canta: \"Tal vez yo deba resignarme y...\"",
+            "respuesta": "no llamarte más",
+            "pista": "__ __am____ ___"
+        },
+        {
+            "id": 54,
+            "enunciado": "Ana Gabriel canta: \"Que despertamos abrazados, con ganas de...\"",
+            "respuesta": "seguir amándonos",
+            "pista": "s_____ _m_______"
+        },
+        {
+            "id": 55,
+            "enunciado": "Pablo Alborán canta: \"En Saturno, viven los hijos...\"",
+            "respuesta": "que nunca tuvimos",
+            "pista": "q__ _____ ______s"
+        },
+        {
+            "id": 56,
+            "enunciado": "Camilo Sesto canta: \"Siempre me traiciona la razón y me...\"",
+            "respuesta": "domina el corazón",
+            "pista": "d_____ __ c______"
+        },
+        {
+            "id": 57,
+            "enunciado": "Noelia canta: \"Tú, mi locura tú, me atas a tu cuerpo, no...\"",
+            "respuesta": "me dejas ir",
+            "pista": "m_ d____ __"
+        },
+        {
+            "id": 58,
+            "enunciado": "Maná Canta: \"Ay mariposa de amor, mi mariposa de amor, ya no...\"",
+            "respuesta": "regreso contigo",
+            "pista": "r______ _o_____"
+        },
+        {
+            "id": 59,
+            "enunciado": "Romeo Santos canta: \"Y si te invitó una copa, y me...\"",
+            "respuesta": "acerco a tu boca",
+            "pista": "a_____ _ t_ ____"
+        },
+        {
+            "id": 60,
+            "enunciado": "Shakira canta: \"Una loba en el armario, tiene ganas de salir, deja que se coma el barrio, antes de...\"",
+            "respuesta": "irte a dormir",
+            "pista": "___e _ d_____"
+        },
+        {
+            "id": 61,
+            "enunciado": "Alejandro Sanz canta: \"¿Quién me va a entregar sus emociones? ¿Quién me va a pedir que...?\"",
+            "respuesta": "nunca la abandone",
+            "pista": "n____ l_ _b______"
+        },
+        {
+            "id": 62,
+            "enunciado": "Chocolate canta: \"Mayonesa, ella me bate como haciendo mayonesa, todo lo que había tomado...\"",
+            "respuesta": "se me subió pronto a la cabeza",
+            "pista": "__ m_ _u___ p_____ a __ ____z_"
+        },
+        {
+            "id": 63,
+            "enunciado": "Soda Estéreo canta: \"De aquel amor, de música ligera, nada nos libra...\"",
+            "respuesta": "nada más queda",
+            "pista": "_a__ ___ q____"
+        },
+        {
+            "id": 64,
+            "enunciado": "Los prisioneros cantan: \"Y no me digas pobre, por...\"",
+            "respuesta": "ir viajando así",
+            "pista": "i_ ________ a__"
+        },
+        {
+            "id": 65,
+            "enunciado": "¿Cuál es el animal más grande del mundo?",
+            "respuesta": "La ballena azul",
+            "pista": "_a ____n_ a___"
+        },
+        {
+            "id": 66,
+            "enunciado": "¿Cuál es la capital de Italia?",
+            "respuesta": "Roma",
+            "pista": "_o__"
+        },
+        {
+            "id": 67,
+            "enunciado": "¿En qué país se encuentra Machu Picchu?",
+            "respuesta": "Perú",
+            "pista": "___ú"
+        },
+        {
+            "id": 68,
+            "enunciado": "¿Quién pintó La noche estrellada?",
+            "respuesta": "Vincent van Gogh.",
+            "pista": "V______ _a_ ___h"
+        },
+        {
+            "id": 69,
+            "enunciado": "¿Cuál es el elemento químico más abundante en el universo?",
+            "respuesta": "El hidrógeno",
+            "pista": "__ h________"
+        },
+        {
+            "id": 70,
+            "enunciado": "¿Cuál es la capital de Egipto?",
+            "respuesta": "El Cairo",
+            "pista": "__ C____"
+        },
+        {
+            "id": 71,
+            "enunciado": "¿En qué país se inventó el papel?",
+            "respuesta": "China",
+            "pista": "C____"
+        },
+        {
+            "id": 72,
+            "enunciado": "¿En qué año comenzó la Segunda Guerra Mundial?",
+            "respuesta": "1939",
+            "pista": "__3_"
+        },
+        {
+            "id": 73,
+            "enunciado": "¿Cuál es el animal terrestre más grande del mundo?",
+            "respuesta": "El elefante",
+            "pista": "__ e_______"
+        },
+        {
+            "id": 74,
+            "enunciado": "¿Qué sustancia se encuentra en los huesos y es esencial para su fortaleza?",
+            "respuesta": "El calcio",
+            "pista": "__ c_____"
+        },
+        {
+            "id": 75,
+            "enunciado": "¿Cuál es la capital de Argentina?",
+            "respuesta": "Buenos Aires",
+            "pista": "_u____ A____"
+        },
+        {
+            "id": 76,
+            "enunciado": "¿Quién pintó La última cena?",
+            "respuesta": "Leonardo Da Vinci",
+            "pista": "_e______ __ V____"
+        },
+        {
+            "id": 77,
+            "enunciado": "¿Qué país es conocido por su fiesta de Oktoberfest?",
+            "respuesta": "Alemania",
+            "pista": "_l______"
+        },
+        {
+            "id": 78,
+            "enunciado": "¿Cuál es la capital de España?",
+            "respuesta": "Madrid",
+            "pista": "__d___"
+        },
+        {
+            "id": 79,
+            "enunciado": "¿Qué gas es esencial para la respiración humana?",
+            "respuesta": "El oxígeno",
+            "pista": "_l _x_____"
+        },
+        {
+            "id": 80,
+            "enunciado": "¿Cuál es la capital de Rusia?",
+            "respuesta": "Moscú",
+            "pista": "___c_"
+        },
+        {
+            "id": 81,
+            "enunciado": "¿En qué ciudad se encuentra la Estatua de la Libertad?",
+            "respuesta": "Nueva York",
+            "pista": "___v_ Y___"
+        },
+        {
+            "id": 82,
+            "enunciado": "¿Qué país es conocido como la tierra del sol naciente?",
+            "respuesta": "Japón",
+            "pista": "_a___"
+        },
+        {
+            "id": 83,
+            "enunciado": "¿Cuál es la capital de Alemania?",
+            "respuesta": "Berlín",
+            "pista": "__r___"
+        },
+        {
+            "id": 84,
+            "enunciado": "¿Cuál es el planeta más cercano al sol",
+            "respuesta": "Mercurio",
+            "pista": "_____r__"
+        },
+        {
+            "id": 85,
+            "enunciado": "¿Cuál es la capital de Grecia?",
+            "respuesta": "Atenas",
+            "pista": "A_____"
+        },
+        {
+            "id": 86,
+            "enunciado": "¿Quién escribió La Odisea?",
+            "respuesta": "Homero",
+            "pista": "H_____"
+        },
+        {
+            "id": 87,
+            "enunciado": "¿Qué país es famoso por la Torre de Pisa?",
+            "respuesta": "Italia",
+            "pista": "_t____"
+        },
+        {
+            "id": 88,
+            "enunciado": "¿Cuál es la capital de Suecia?",
+            "respuesta": "Estocolmo",
+            "pista": "E___c____"
+        },
+        {
+            "id": 89,
+            "enunciado": "¿Cuál es la capital de Colombia?",
+            "respuesta": "Bogotá",
+            "pista": "_o____"
+        },
+        {
+            "id": 90,
+            "enunciado": "¿Cuál es la capital de Chile?",
+            "respuesta": "Santiago",
+            "pista": "___t____"
+        },
+        {
+            "id": 91,
+            "enunciado": "¿Cuál es la capital de Venezuela?",
+            "respuesta": "Caracas",
+            "pista": "___a___"
+        },
+        {
+            "id": 92,
+            "enunciado": "¿Cuál es la capital de Perú?",
+            "respuesta": "Lima",
+            "pista": "_i__"
+        },
+        {
+            "id": 93,
+            "enunciado": "¿Cuál es la capital de Paraguay?",
+            "respuesta": "Asunción",
+            "pista": "_s______"
+        },
+        {
+            "id": 94,
+            "enunciado": "¿Cuál es la capital de Estados Unidos?",
+            "respuesta": "Washington DC",
+            "pista": "W_________ _C"
+        },
+        {
+            "id": 95,
+            "enunciado": "¿Cuál es la capital de México?",
+            "respuesta": "Ciudad de México",
+            "pista": "___d__ __ M______"
+        },
+        {
+            "id": 96,
+            "enunciado": "¿Cuál es la capital de Haití?",
+            "respuesta": "Puerto Príncipe",
+            "pista": "__e___ P_______"
+        },
+        {
+            "id": 97,
+            "enunciado": "¿Cuál es la capital de Cuba?",
+            "respuesta": "La Habana",
+            "pista": "_a _a____"
+        },
+        {
+            "id": 98,
+            "enunciado": "¿Cuál es la capital de Uruguay?",
+            "respuesta": "Montevideo",
+            "pista": "___t______"
+        },
+        {
+            "id": 99,
+            "enunciado": "¿Cuál es la capital de Ecuador?",
+            "respuesta": "Quito",
+            "pista": "Q____"
+        },
+        {
+            "id": 100,
+            "enunciado": "¿Cuál es la capital de Inglaterra?",
+            "respuesta": "Londres",
+            "pista": "L______"
+        },
+        {
+            "id": 101,
+            "enunciado": "¿Cuál es el animal nacional de Australia?",
+            "respuesta": "El canguro",
+            "pista": "_l ___g___"
+        },
+        {
+            "id": 102,
+            "enunciado": "¿Qué país es conocido por su famoso canal que conecta el Atlántico y el Pacífico?",
+            "respuesta": "Panamá",
+            "pista": "P_____"
+        },
+        {
+            "id": 103,
+            "enunciado": "¿Cuál es el hueso más largo del cuerpo humano?",
+            "respuesta": "El fémur",
+            "pista": "__ _é___"
+        },
+        {
+            "id": 104,
+            "enunciado": "¿Cuál es la capital de Portugal?",
+            "respuesta": "Lisboa",
+            "pista": "_i____"
+        },
+        {
+            "id": 105,
+            "enunciado": "¿Quién escribió El amor en los tiempos del cólera?",
+            "respuesta": "Gabriel García Márquez",
+            "pista": "__b____ G_____ _____z"
+        },
+        {
+            "id": 106,
+            "enunciado": "¿Quién fue el líder de la Revolución Cubana?",
+            "respuesta": "Fidel Castro",
+            "pista": "F____ _a____"
+        },
+        {
+            "id": 107,
+            "enunciado": "¿Cuál es el idioma oficial de Polonia?",
+            "respuesta": "Polaco",
+            "pista": "_o____"
+        },
+        {
+            "id": 108,
+            "enunciado": "Complete el dicho: \"Más vale solo...\"",
+            "respuesta": "que mal acompañado",
+            "pista": "q__ ___ _c________"
+        },
+        {
+            "id": 109,
+            "enunciado": "Complete el dicho: \"El que la sigue...\"",
+            "respuesta": "la consigue",
+            "pista": "_a ___s____"
+        },
+        {
+            "id": 110,
+            "enunciado": "Complete el dicho: \"Donde hubo fuego...\"",
+            "respuesta": "cenizas quedan",
+            "pista": "__n____ _u____"
+        },
+        {
+            "id": 111,
+            "enunciado": "Complete el dicho: \"Más vale pájaro en mano...\"",
+            "respuesta": "que cien volando",
+            "pista": "___ c___ __l____"
+        },
+        {
+            "id": 112,
+            "enunciado": "Complete el dicho: \"Al mal tiempo...\"",
+            "respuesta": "buena cara",
+            "pista": "b____ __r_"
+        },
+        {
+            "id": 113,
+            "enunciado": "Complete el dicho: \"Camarón que se duerme\"",
+            "respuesta": "se lo lleva la corriente",
+            "pista": "__ __ _l___ _a __r______"
+        },
+        {
+            "id": 114,
+            "enunciado": "Complete el dicho: \"Al pan, pan y...\"",
+            "respuesta": "al vino, vino",
+            "pista": "__ v___, __n_"
+        },
+        {
+            "id": 115,
+            "enunciado": "Complete el dicho: \"A rey muerto...\"",
+            "respuesta": "rey puesto",
+            "pista": "__y ___s__"
+        },
+        {
+            "id": 116,
+            "enunciado": "Complete el dicho: \"A caballo regalado...\"",
+            "respuesta": "no se le miran los dientes",
+            "pista": "n_ __ _e ___a_ ___ d______"
+        },
+        {
+            "id": 117,
+            "enunciado": "Complete el dicho: \"Secretos de dos...\"",
+            "respuesta": "no son de Dios",
+            "pista": "__ s__ __ D___"
+        },
+        {
+            "id": 118,
+            "enunciado": "Complete el dicho: \"En la puerta del horno...\"",
+            "respuesta": "se quema el pan",
+            "pista": "__ q____ __ p__"
+        },
+        {
+            "id": 119,
+            "enunciado": "Complete el dicho: \"Perro que ladra...\"",
+            "respuesta": "no muerde",
+            "pista": "__ m_____"
+        },
+        {
+            "id": 120,
+            "enunciado": "Complete el dicho: \"Cada loco...\"",
+            "respuesta": "con su tema",
+            "pista": "__n __ t___"
+        },
+        {
+            "id": 121,
+            "enunciado": "Complete el dicho: \"De tal palo...\"",
+            "respuesta": "tal astilla",
+            "pista": "t__ ____l__"
+        },
+        {
+            "id": 122,
+            "enunciado": "Complete el dicho: \"Más vale prevenir...\"",
+            "respuesta": "que lamentar",
+            "pista": "__e __m_____"
+        },
+        {
+            "id": 123,
+            "enunciado": "Complete el dicho: \"Más vale tarde...\"",
+            "respuesta": "que nunca",
+            "pista": "___ n_____"
+        },
+        {
+            "id": 124,
+            "enunciado": "Complete el dicho: \"En boca cerrada...\"",
+            "respuesta": "no entran moscas",
+            "pista": "__ e_____ _o____"
+        },
+        {
+            "id": 125,
+            "enunciado": "Complete el dicho: \"Al que madruga...\"",
+            "respuesta": "Dios lo ayuda",
+            "pista": "__o_ __ a____"
+        },
+        {
+            "id": 126,
+            "enunciado": "Complete el dicho: \"El que ríe último...\"",
+            "respuesta": "ríe mejor",
+            "pista": "__e _____"
+        },
+        {
+            "id": 127,
+            "enunciado": "Complete el dicho: \"A palabras necias...\"",
+            "respuesta": "oídos sordos",
+            "pista": "_í___ _____s"
+        },
+        {
+            "id": 128,
+            "enunciado": "Complete el dicho: \"Del dicho al hecho...\"",
+            "respuesta": "hay mucho estrecho",
+            "pista": "__y _____ e_______"
+        },
+        {
+            "id": 129,
+            "enunciado": "Complete el dicho: \"El que mucho abarca...\"",
+            "respuesta": "poco aprieta",
+            "pista": "___o ____e__"
+        },
+        {
+            "id": 130,
+            "enunciado": "Complete el dicho: \"Nadie es profeta...\"",
+            "respuesta": "en su tierra",
+            "pista": "__ _u ___r__"
+        },
+        {
+            "id": 131,
+            "enunciado": "¿En qué año se produjo el golpe de estado en Chile?",
+            "respuesta": "1973",
+            "pista": "___3"
+        },
+        {
+            "id": 132,
+            "enunciado": "¿Cuál es el nombre del poeta chileno ganador del Premio Nobel en 1971?",
+            "respuesta": "Pablo Neruda",
+            "pista": "_a___ _____a"
+        },
+        {
+            "id": 133,
+            "enunciado": "¿Qué flor es el emblema nacional de Chile?",
+            "respuesta": "El copihue",
+            "pista": "_l ____h__"
+        },
+        {
+            "id": 134,
+            "enunciado": "¿En qué región se encuentra la ciudad de La Serena?",
+            "respuesta": "Coquimbo",
+            "pista": "C_______"
+        },
+        {
+            "id": 135,
+            "enunciado": "¿Qué héroe naval chileno murió en el combate naval de Iquique?",
+            "respuesta": "Arturo Prat",
+            "pista": "____r_ P___"
+        },
+        {
+            "id": 136,
+            "enunciado": "¿Cuál es el baile nacional de Chile?",
+            "respuesta": "La cueca",
+            "pista": "__ c____"
+        },
+        {
+            "id": 137,
+            "enunciado": "¿Cuál es el nombre de la poetisa chilena ganadora del Premio Nobel en 1945?",
+            "respuesta": "Gabriela Mistral",
+            "pista": "___r____ M______"
+        },
+        {
+            "id": 138,
+            "enunciado": "¿En qué región se encuentra la ciudad de Concepción?",
+            "respuesta": "Biobío",
+            "pista": "B_____"
+        },
+        {
+            "id": 139,
+            "enunciado": "¿Cuál es el nombre del presidente chileno que murió durante el golpe de estado de 1973?",
+            "respuesta": "Salvador Allende",
+            "pista": "___v____ _l_____"
+        },
+        {
+            "id": 140,
+            "enunciado": "¿En qué región se encuentra la ciudad de Temuco?",
+            "respuesta": "La Araucanía",
+            "pista": "L_ ____c____"
+        },
+        {
+            "id": 141,
+            "enunciado": "¿Cuál es el nombre del río que divide la ciudad de Santiago?",
+            "respuesta": "El río Mapocho",
+            "pista": "__ __o ____c__"
+        },
+        {
+            "id": 142,
+            "enunciado": "¿Qué ciudad chilena es conocida como la Ciudad jardín?",
+            "respuesta": "Viña del Mar",
+            "pista": "_i__ ___ m__"
+        },
+        {
+            "id": 143,
+            "enunciado": "¿Cuál es el nombre del palacio presidencial de Chile?",
+            "respuesta": "La Moneda",
+            "pista": "__ _o____"
+        },
+        {
+            "id": 144,
+            "enunciado": "¿En qué región se encuentra la ciudad de Calama?",
+            "respuesta": "Antofagasta",
+            "pista": "__t________"
+        },
+        {
+            "id": 145,
+            "enunciado": "¿En qué región se encuentra la ciudad de Puerto Montt?",
+            "respuesta": "Los Lagos",
+            "pista": "_o_ __g__"
+        },
+        {
+            "id": 146,
+            "enunciado": "¿Qué película chilena ganó un Oscar en 2018?",
+            "respuesta": "Una mujer fantástica",
+            "pista": "U__ ____r ______t___"
+        },
+        {
+            "id": 147,
+            "enunciado": "¿Qué bebidas chilenas son conocidas por su color rojo y amarillo?",
+            "respuesta": "Bilz y Pap",
+            "pista": "___z _ P__"
+        },
+        {
+            "id": 148,
+            "enunciado": "¿En qué región se encuentra la ciudad de Chillán?",
+            "respuesta": "Ñuble",
+            "pista": "_u___"
+        },
+        {
+            "id": 149,
+            "enunciado": "¿Qué actriz chilena interpretó a Jovanka Antich en la teleserie Romané",
+            "respuesta": "Claudia Di Girolamo",
+            "pista": "C______ __ G_______"
+        },
+        {
+            "id": 150,
+            "enunciado": "¿Qué actor chileno interpretó a Pelluco en la teleserie Amores de Mercado",
+            "respuesta": "Álvaro Rudolphy",
+            "pista": "__v___ _u______"
+        }
+    
+    ]
+
